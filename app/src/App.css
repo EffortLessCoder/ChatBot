@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.inner_text_box {
+  width : 700px;
+  height: 550px;
+}
+.text {
+  word-wrap: break-word;
+}
